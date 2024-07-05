@@ -6,7 +6,7 @@ I've also had the opportunity to contribute my skills to various international m
 
 ### My skills
 
-- Programming: Go, Javascript, PHP
+- Programming: Go, JS/TS, PHP, C#
 - Databases: MySQL, Redis, MongoDB, Prometheus/Grafana
 - DevOps/Tools: Linux, Docker, K8s, AWS, CI/CD, GitLab/GitHub
 
