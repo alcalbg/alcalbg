@@ -9,7 +9,8 @@ I've also had the opportunity to contribute my skills to various international c
 - Programming: Go, JS/TS, PHP, Java, C#
 - Databases: MySQL, PostgreSQL, MSSQL, Redis, MongoDB, Prometheus/Grafana
 - DevOps/Tools: Linux, Docker, K8s, AWS, CI/CD, GitLab/GitHub
-- Security: vulnerability mitigation, incident response
+- Security: Vulnerability mitigation, incident response
+- AI: LLM integration, AI-assisted development
 
 <!--
 **alcalbg/alcalbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
